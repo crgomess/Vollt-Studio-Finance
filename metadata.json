@@ -1,0 +1,8 @@
+{
+  "name": "Nexus - Gestão Financeira & Organização Pessoal",
+  "description": "Plataforma integrada de controle financeiro pessoal, gestão de contas e cartões, metas, tarefas, rastreador de hábitos e notas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
